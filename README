@@ -1,0 +1,45 @@
+Howdy!
+
+This here's Essai, a git-versioned way to keep track of your essays for classes with
+ease. You'll be able to look at all of your revisions, and generate PDFs of any of them, fork from a past revision, or print that particular revision. I'm primarily a UI designer, so
+it will, of course, be pretty. The overall theme will be that of a bento box.
+
+Here's the general overview of the UI:
+
+You have a main area with your various projects in their own filed compartments: active, recent, finished, and graveyard. The active area is self explanatory. The recent are essays you've worked on recently, finished is for essays already turned in, and the graveyard is for
+essays never to see the light of day.
+
+Each essay will have its own workspace. Google Docs integration might be possible, and so
+might a WYSIWYG, though the latter is unlikely. You'll have a little revision history here,
+and you'll be able to do all of your normal Git tasks from a nice web GUI.
+
+At this time, I'm not planning on letting you turn in your assignments using this system.
+It's presently only for students to keep track of things. That's not to say a school or college
+wouldn't find this system helpful for its students, it's just not a forum for turning things in
+yet. If somebody wants to help with this, message me.
+
+
+This software is licensed under the MIT license:
+
+
+The MIT License
+
+Copyright (c) 2011 Simon Orr
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
