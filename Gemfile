@@ -7,20 +7,18 @@ gem 'rails', '3.0.4'
 
 gem 'sqlite3'
 
-# Use unicorn as the web server
-# gem 'unicorn'
+# git should prolly be required for this
+gem 'git'
 
-# Deploy with Capistrano
-# gem 'capistrano'
 
-# To use debugger (ruby-debug for Ruby 1.8.7+, ruby-debug19 for Ruby 1.9.2+)
-# gem 'ruby-debug'
-# gem 'ruby-debug19'
+#Here's our beautiful web server
+gem 'thin'
 
-# Bundle the extra gems:
-# gem 'bj'
-# gem 'nokogiri'
-# gem 'sqlite3-ruby', :require => 'sqlite3'
+gem 'nokogiri'
+
+gem 'sqlite3-ruby', :require => 'sqlite3'
+
+#If you're deploying to Heroku or any other read-only system, use uncomment the below
 # gem 'aws-s3', :require => 'aws/s3'
 
 # Bundle gems for the local environment. Make sure to
